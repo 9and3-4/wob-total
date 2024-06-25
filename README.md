@@ -151,19 +151,19 @@ https://workoutbuddys.store/signin </br>
 - **스토리보드**
 
 
-  <img src="https://github.com/ghkdtjsdud0312/wob-total/assets/142463073/909e1565-03bb-4ce9-a6e8-b79ec614b437" width="800" alt="스토리보드">
+  <img src="https://github.com/ghkdtjsdud0312/wob-total/assets/142463073/909e1565-03bb-4ce9-a6e8-b79ec614b437" width="800" alt="스토리보드!">
 
 
 - **애자일 방법론**
 
 
-  <img src="https://github.com/ghkdtjsdud0312/wob-total/assets/142463073/f5e2111e-26a5-4429-89c0-ab134e0ae0b8" width="800" alt="애자일 방법론">
+  <img src="https://github.com/ghkdtjsdud0312/wob-total/assets/142463073/f5e2111e-26a5-4429-89c0-ab134e0ae0b8" width="800" alt="애자일 방법로!ᆫ">
 
 
 - **회의록**
 
 
-  <img src="https://github.com/ghkdtjsdud0312/wob-total/assets/142463073/2be8fa2e-1388-41a8-b4a4-62ccec8591d3" width="800" alt="회의록">
+  <img src="https://github.com/ghkdtjsdud0312/wob-total/assets/142463073/2be8fa2e-1388-41a8-b4a4-62ccec8591d3" width="800" alt="회의록!">
 
 ## 🙋🏻기술 발표
 🔗**노션**  https://www.notion.so/d3a139f942494498b6ac4f39a3059599
