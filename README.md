@@ -157,7 +157,7 @@ https://workoutbuddys.store/signin </br>
 - **애자일 방법론**
 
 
-  <img src="https://github.com/ghkdtjsdud0312/wob-total/assets/142463073/f5e2111e-26a5-4429-89c0-ab134e0ae0b8" width="800" alt="애자일 방법로!ᆫ">
+  <img src="https://github.com/ghkdtjsdud0312/wob-total/assets/142463073/f5e2111e-26a5-4429-89c0-ab134e0ae0b8" width="800" alt="애자일 방법론이다">
 
 
 - **회의록**
