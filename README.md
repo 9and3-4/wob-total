@@ -151,7 +151,7 @@ https://workoutbuddys.store/signin </br>
 - **스토리보드**
 
 
-  <img src="https://github.com/ghkdtjsdud0312/wob-total/assets/142463073/909e1565-03bb-4ce9-a6e8-b79ec614b437" width="800" alt="스토리보드!">
+  <img src="https://github.com/ghkdtjsdud0312/wob-total/assets/142463073/909e1565-03bb-4ce9-a6e8-b79ec614b437" width="800" alt="스토리보드">
 
 
 - **애자일 방법론**
